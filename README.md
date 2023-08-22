@@ -2,7 +2,9 @@
 <img width="519" alt="hpa" src="https://github.com/SoumyaCO/Hotel-price-data-analysis/assets/101652501/1f8eedd3-3e01-4d08-85e1-f24c59f250ea">
 
 <h3>Analysis of Hotel Price Data from the <b>MakeMyTrip</b> website for major cities like Bangalore, Chennai, Hyderabad, Delhi, Kolkata</h3>
-The dataset is available on kaggle you can take a look at the dataset: 🔗[here](https://www.kaggle.com/datasets/andrewgeorgeissac/hotel-price-data-of-cities-in-india-makemytrip). I've done some analysis on this data such as -
+
+The dataset is available on kaggle you can take a look at the dataset: 🔗[here](https://www.kaggle.com/datasets/andrewgeorgeissac/hotel-price-data-of-cities-in-india-makemytrip). I've done some analysis on this data such as 
+
 > * hotel qualities
 > * average people choice which kind of hotels
 > * High rating actually increase number of customers or not
